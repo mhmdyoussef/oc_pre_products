@@ -1,0 +1,25 @@
+<?xml version="1.1" encoding="utf8"?>
+<modification>
+    <name>Aquarium</name>
+    <version>1.0.0</version>
+    <author><![CDATA[<b style="color: green">MY-Dev | </b><b>Mohamed Youssef</b>]]></author>
+    <link>http://my-dev.pro</link>
+    <discription>Opencart 3 Module to form a new product consisting of several other products</discription>
+    <code>mydev_aquarium</code>
+
+        <file path="">
+            <operation error="skip">
+                <search><![CDATA[]]></search>
+                <add position=""><![CDATA[$_[]]></add>
+            </operation>
+        </file>
+
+
+
+        <file path="">
+            <operation error="skip">
+                <search><![CDATA[]]></search>
+                <add position=""><![CDATA[$_[]]></add>
+            </operation>
+        </file>
+</modification>
